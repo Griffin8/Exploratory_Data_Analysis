@@ -1,4 +1,4 @@
-#course project for the Getting and Cleaning Data Coursera course.
+#Course project for the Getting and Cleaning Data Coursera course.
 
 ##Requirements:
 * Merges the training and the test sets to create one data set.
